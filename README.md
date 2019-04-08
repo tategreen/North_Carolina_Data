@@ -1,0 +1,1 @@
+Using North Carolina Data from Problem set 4 I show many tables using the data from the Polling Results in North Carolina 9th Congressional District.  One of the grapgics shows education and polling data graphed.  
